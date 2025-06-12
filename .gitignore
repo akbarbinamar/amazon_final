@@ -1,0 +1,5 @@
+# Ignore folders (temporarily disabled by commenting out)
+# data/
+# venv/__pycache__/
+*.pyc
+.env
